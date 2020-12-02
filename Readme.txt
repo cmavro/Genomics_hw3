@@ -1,0 +1,2 @@
+The code is in an .ipynb file (which is run via jupyter notebook). That way, I printed the output of edges.txt, tree.txt, boots.txt in some cells. 
+The visualization has been made with the Rscripts provided.
